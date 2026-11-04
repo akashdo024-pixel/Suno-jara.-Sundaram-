@@ -1,0 +1,6 @@
+{
+  "name": "suno jara",
+  "description": "Professional music streaming & authorized offline download app with dark Spotify-inspired design, discovery, playlists, and player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
